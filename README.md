@@ -21,3 +21,6 @@
 ## 산출물
 -  [시연영상](https://drive.google.com/file/d/1VFWSpJAHBJD09PhaTU7Mc8GBtoMslyi_/view?usp=sharing)
 -  [프레젠테이션](https://drive.google.com/file/d/1vC_E6AlT5WmTqFj7zHK9li94cAUMZN5m/view?usp=drive_link)
+
+# 참고 문헌 
+-  [논문](https://drive.google.com/file/d/1OgBqjtERu9z-OT4x0NvHu3eyWH_kjPgX/view?usp=drive_link)
